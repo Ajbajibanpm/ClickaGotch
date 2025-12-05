@@ -13,13 +13,14 @@
     justify-content: flex-end;
     height: calc(40dvh - 20px);
     background-color: greenyellow;}
-button {font-size: 10dvh;
-width: 15dvh;
-height: 15dvh;
+button {font-size: 20dvh;
+width: 30dvh;
+height: 30dvh;
 background-color: white;
 display: flex;
 align-items: center;
 justify-content: center;}
-img {width: 10dvh;
-height: 10dvh;}
+img {width: 20dvh;
+height: 20dvh;}
+
 
