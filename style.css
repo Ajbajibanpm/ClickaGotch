@@ -1,0 +1,24 @@
+.coccola1 {background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+height: 20px;}
+.coccola2 {display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: calc(60dvh - 20px);
+    background-color: skyblue;}
+.coccola3 {display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: calc(40dvh - 20px);
+    background-color: greenyellow;}
+button {font-size: 10dvh;
+width: 15dvh;
+height: 15dvh;
+background-color: white;
+display: flex;
+align-items: center;
+justify-content: center;}
+img {width: 10dvh;
+height: 10dvh;}
